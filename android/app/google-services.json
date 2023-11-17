@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289913436424",
+    "project_id": "attention-app-b342d",
+    "storage_bucket": "attention-app-b342d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289913436424:android:eb8dcd8718afa47e06d4bd",
+        "android_client_info": {
+          "package_name": "com.example.attention_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyRPRqHtPm2alLReqyJDyvcBoFVbmwpZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
